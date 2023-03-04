@@ -6,102 +6,25 @@
   <title>{{title}}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <meta property="og:title" content="{{ renderData.title or title or pkg.name }} • {{ pkg.name }}" />
+  <meta property="og:title" content="{{ renderData.title or title or pkg.name }} • esther.lol" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{page.url | url}}" />
-  <meta property="og:image" content="https://twohorses.lol/img/pair.png"  />
-  <meta property="og:description" content="{{ excerpt }}" />
+  <meta property="og:url" content="https://esther.lol" />
+  <meta property="og:image" content="https://esther.lol/img/apadna.jpg"  />
+  <meta property="og:description" content="A brave woman becomes queen and thwarts a dastardly plot." />
   
-  <meta name="twitter:title" content="{{ renderData.title or title or pkg.name }} • {{ pkg.name }}" />
+  <meta name="twitter:title" content="{{ renderData.title or title or pkg.name }} • esther.lol" />
   <meta name="twitter:site" content="pborenstein" />
   <meta name="twitter:description" content="{{ excerpt }}" />
-  <meta name="twitter:image" content="https://twohorses.lol/img/pair.png"  />
+  <meta name="twitter:image" content="https://esther.lol/img/apadna.jpg"  />
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="twohorses.lol">
-  <meta property="twitter:url" content="https://twohorses.lol">
+  <meta property="twitter:domain" content="esther.lol">
+  <meta property="twitter:url" content="https://esther.lol">
 
 
 
   <link rel="stylesheet" href="https://use.typekit.net/ztn6rcs.css">
   <link rel="stylesheet" href="https://use.typekit.net/pgn7ley.css">
-  <style>
-
-html {
-  /* https://css-tricks.com/simplified-fluid-typography/ */
-  font-size: clamp(5px, .8rem + 1vw, 92px);
-}
-
-body {
-  --measure:  min(90%, 48ch);
-  background-color: #fffff8;
-  color: #111;
-  counter-reset: sidenote-counter;
-  font-family: p22-stickley-pro-text, neue-kabel, Palatino,Georgia,serif;
-  margin: 0;
-  width: 100vw;
-  box-sizing: content-box;
-  margin-inline: auto;
-  max-inline-size: var(--measure);
-  margin-bottom: 3em;
-}
-
-h2 + *,
-* {
-  margin-block: 0;
-}
-
-* + * {
-  margin-block-start: 1rem;
-}
-
-
-p {
-  line-height: 1.6em;
-}
-
-h1,h2 {
-  font-family: neue-kabel, 'Gill Sans','Helvetica Neue', sans-serif;
-  font-weight: 600;
-}
-h1 {
-  font-size: 3em;
-  padding-top: 1em;
-  letter-spacing: -1.5px;
-}
-
-h2 {
-  margin-bottom: .25em;
-}
-
-img {
-  width: 100%;
-}
-
-.drop::first-letter {
-  font-size: 400%;
-}
-
-.drop {
-  margin-top: 3em;
-}
-
-.first-line::first-line,
-.drop::first-line {
-  font-variant: small-caps;
-  font-size: 120%;
-}
-
-a {
-  color: #555;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #222;
-}
-
-  </style>
-
+  <link rel="stylesheet" href="/css/styles.css">
   </head>
   <body>
 
