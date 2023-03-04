@@ -117,7 +117,7 @@ cosmetics.
 
 ![](/img/790px-Jewelry_with_components_from_the_Indus,_Central_Asia_and_Northern-eastern_Iran_found_in_Susa_dated_to_2600-1700_BCE.jpg)
 
-Once they were scrubbed and buffed, a woman would arrive before the king in the evening, and in the morning she would return to the lesser harem, the one for concubines. No woman could return to the king unless the king requested her by name. Ahasuerus was not good with names.
+Once she was scrubbed and buffed, a woman would arrive before the king in the evening, and in the morning she would return to the lesser harem, the one for concubines. No woman could return to the king unless the king requested her by name. Ahasuerus was not good with names.
 
 In the tenth month (Tevet), in the seventh year of his reign Esther was taken to King Ahasuerus.
 The king loved Esther better than all the other women, and she pleased him more
@@ -127,7 +127,7 @@ queen in place of Vashti.
 The king made a big feast, called Esther's Feast, for all his ministers and servants. He declared a tax break for the provinces, and gave royal gifts, which were paid for by reducing social services.
 
 Also, Mordechai was
-appointed to sit with the ministers at the King's Gate,
+appointed to sit with the ministers at the King's Gate.
 
 Still, Esther did not reveal her nationality or race as Mordechai had
 ordered her. Esther obeyed the words of Mordechai, her uncle or cousin, just as she did when he was
@@ -197,7 +197,9 @@ young and old, children and women,
 were to be killed and their property pillaged.
 This decree was posted in throughout the empire.
 
-The king and Haman sat down to drink, and the Jews in the city of Shushan were unaware of what was coming.
+The king and Haman sat down to drink,
+and the Jews in the city of Shushan 
+slumbered, unaware of what was coming.
 
 
 ## IV
@@ -209,9 +211,17 @@ on sackcloth and ashes. He went to the center of the city and wailed loudly
 and bitterly.
 
 Esther's maids and attendants told her what Mordechai, her cousin or uncle, was doing and the queen became very
-concerned. She sent clothing to Mordechai to replace the sackcloth, but he would not accept them. Esther asked one of her attendants to find out what was up with the sackcloth and ashes.
+concerned.
+She sent clothing to Mordechai to replace the sackcloth,
+but he sent the clothes right back.
+Esther asked one of her attendants
+to find out what was up with the sackcloth and ashes.
 
-Mordechai gave the servant a copy of the decree that had been circulated in Shushan, with the words "to destroy them" highlighted. He told the servant to show the decree to Esther, and to ask her to go to the king to beg and plead for her people.
+Mordechai gave the attendant a copy of the decree
+that had been circulated in Shushan, 
+with the words "to destroy them" highlighted.
+He told the attendant to show the decree to Esther, 
+and to ask her to go to the king to beg and plead for her people.
 
 
 Esther responded to Mordechai:
@@ -224,11 +234,20 @@ Esther responded to Mordechai:
 
 > Don't imagine that you alone among the Jews will escape in the king's palace, and that this will save your life.
 
-> Even if you are silent now, the Jews will get relief and rescue some other way, and you and your father's house will be lost. And who knows? Maybe it was for just such an occasion that you were made queen!
+> Even if you are silent now, the Jews will get
+> relief and rescue some other way, 
+> and you and your father's house will be lost.
+> And who knows? Maybe it was for just such
+> an occasion that you were made queen!
 
 ### Esther
 
-> Gather all the Jews in Shushan. Tell them to fast for me: not to eat or drink for three days and nights. My girls and I will also fast. Then I'll go to the king -- which, as I mentioned, is against the law. If I die, I die.
+> Gather all the Jews in Shushan. 
+> Tell them to fast for me: not to eat or drink f
+> or three days and nights.
+> My girls and I will also fast. 
+> then I'll go to the king -- which, as I mentioned, 
+> is against the law. If I die, I die.
 
 
 ## V
@@ -236,8 +255,12 @@ Esther responded to Mordechai:
 #### Esther Approaches the King
 
 On the third day of the fast, Esther dressed in her royal clothes and
-stood at the king's inner court, facing the king's apartment. The king sat on his royal throne in the palace, facing the entrance. When the king saw Queen Esther standing in the court, he was pleased, and he extended to Esther his golden scepter. Esther approached and
-touched the tip of the scepter.
+stood at the king's inner court, facing the king's apartment.
+The king sat on his royal throne in the palace, facing the entrance. 
+When the king saw Queen Esther standing in the court, he was pleased, 
+so he extended his golden scepter toward Esther.
+She approached the king and
+touched the tip of his scepter.
 
 ### King
 
@@ -246,7 +269,9 @@ touched the tip of the scepter.
 
 ### Esther
 
-> If it please the king, could the king and Haman come later today to a little party I'm having?
+> If it please the king, 
+> could the king and Haman come later
+> today to a little party I'm having?
 
 ### King
 
@@ -258,31 +283,37 @@ Over drinks, the king said to Esther:
 
 ### King
 
-> Whatever your request, you will receive it. Whatever you desire, up to half my empire, it shall be done!
+> Whatever your request, you will receive it.
+> Whatever you desire, up to half my empire, it shall be done!
 
 ### Esther
 
 > So, about my request and desire:
-> If the king likes me, and if it pleases the king to grant me my request and desire, could the king and Haman come to another party tomorrow? Then I will reveal my true request and my true desire.
+> If the king likes me, and if it pleases
+> the king to grant me my request and desire,
+> could the king and Haman come to another party
+> tomorrow? Then I will reveal my true request and my true desire.
 
 
 #### Haman's Joy is Short-Lived
 
 Haman was happy that he got to party with the queen,
-but he was ecstatic that he was going to do it the next
+and he was ecstatic that he was going to do it the next
 day, too.
 
-But on his way home Haman saw Mordechai at the king's gate,
-and Mordechai refused to bow, to stand or even move at all for him.
-Just a little nod of the head.
+But on his way home, Haman saw Mordechai at the king's gate
+sitting with the king's ministers.
+All of the ministers stood and bowed to Haman.
+But while Mordechai stood, he did not bow.
+He gave Haman just a little nod of the head.
 Haman got very very angry and controlled himself until
 he got home. Then he let go on his wife.
 
 ### Haman
 
 > I am the prime minister of the empire! I am the top man next to the king!
-> Queen Esther invited no one else to the party, except me (and the king)! 
-> Plus, she invited me to another party tomorrow, too! (Also with the king.)
+> Queen Esther invited no one else to the party, just me (and the king)! 
+> Plus, she invited me to another party tomorrow, too! (With with the king.)
 > But all this glory means nothing to me as long
 > as that Jew Mordechai sits at the king's gate and refuses to bow to me.
 
@@ -311,7 +342,8 @@ He ran back to the palace right away.
 Meanwhile back at the palace, the king was having trouble sleeping. He asked his attendants to bring the book of
 chronicles and read to him. This always put Ahasuerus to sleep.
 
-When they got to the entry about Mordechai thwarting the plot to kill the king, Ahasuerus, sat up.
+When they got to the entry about Mordechai
+thwarting the plot to kill the king, Ahasuerus, sat up.
 
 ### King
 
@@ -336,7 +368,6 @@ about hanging Mordechai on that 50-cubit gallows right away.
 
 > Tell Haman to come in!
 
-
 #### Haman's Plan Backfires
 
 The servants brought Haman in to see the king.
@@ -350,23 +381,31 @@ The servants brought Haman in to see the king.
 
 > (to himself)  Oh boy! He must be talking about me!<br/><br/>
 > Well, King, if you really want to honor someone, here's what you do.
-> Have one of your most trusted ministers dress the man you want to honor in one of your royal robes. Put him on your royal horse. Then have the
-> minister lead the man on the horse through town crying:
+> Have one of your most trusted ministers dress
+> the man you want to honor in one of your royal robes.
+> Put him on your royal horse. Then have the
+> minister lead him through town crying:
 > This! This is what the king does for someone he wishes to honor!
 
 
 ### King
 
-> What a great idea, Haman. Here, take this robe and my horse to Mordechai the Jew, and do just as you said. Lead Mordechai on my horse through the streets of Shushan. Don't leave out a single thing.
+> What a great idea, Haman. 
+> Here, take this robe and my horse to Mordechai the Jew, 
+> and do just as you said. Lead Mordechai on my horse 
+> through the streets of Shushan. Don't leave out a single thing.
 
 
-Haman got the clothes and horse. He dressed Mordechai in the royal robes and led him through the streets of Shushan as he called out
+Haman got the clothes and horse.
+He dressed Mordechai in the royal robes 
+and led him through the streets of Shushan as he called out:
 
 ### Haman
 
 > This! This is what the king does for someone he wishes to honor!
 
-After this little romp, Mordechai returned to the king's gate, but Haman hurried home, depressed, and with his head covered.
+After this little romp, Mordechai returned to the king's gate, 
+and Haman hurried home, depressed, with his head covered.
 
 ![](/img/relief.jpg)
 
@@ -375,56 +414,71 @@ After this little romp, Mordechai returned to the king's gate, but Haman hurried
 
 #### Esther's Plea
 
-Soon it was time for Esther's second pary,  and the king and Haman came to hang out.
+Soon it was time for Esther's second party,
+and the king and Haman came to hang out.
 
 The king was in a good mood.
 
 ### King
 
-> Whatever your desire, Queen Esther, you shall have. And whatever you request, up to half the kingdom, will be done.
+> Whatever your desire, Queen Esther,
+> you shall have. And whatever you request, 
+> up to half the kingdom, will be done.
 
 ### Esther
 
-> If the king likes me, and if it please the king: grant me my life as my desire, and my people as my request.
-> My people and I have been sold to be destroyed, killed, and eradicated. Had we been only sold as slaves I wouldn't have bothered you.
+> If the king likes me, and if it pleases the king: 
+> grant me my life as my desire, 
+> and my people as my request.
+> My people and I have been sold to be destroyed, 
+> killed, and eradicated. 
+> Had we been only sold as slaves, I wouldn't have bothered you.
 
 #### The Plot Is Thwarted
 
 ### King
 
-> WHAT? What is this? Who would dare do this?"
+> What? What is this? Who would dare do this?"
 
 ### Esther
 
 > That man, the persecutor, the enemy, is that evil Haman there!
 
-
-In his anger, Ahasuerus stood up and stormed out to the garden to think.
-While the king was out in the garden, Haman threw himself on Esther, who was lying on her couch. He was pleading for his life, but the king didn't see it that way when he came back.
+In his anger, Ahasuerus stood up and 
+stormed out to the garden to think.
+While the king was out in the garden, 
+Haman threw himself on Esther, who was lying on her couch. 
+He was pleading for his life, but the king didn't see it that way when he came back.
 
 ### King
 
 > Dude! WTF? You're making moves on Queen Esther when I'm standing right outside? <BR/>
-> GUARDS! Take him away
+> Guards! Take him away
 
 ### Servant
 
-> You know, king, there's a gallows 50 cubits high that Haman made for Mordechai. Just sayin'
+> You know, king, there's a gallows in Haman's yard.
+> He made it for Mordechai. 
+> Fifty cubits high. 
+> Just sayin'
 
 ### King
 
 > Hang him on it.
 
-So they hanged Haman on the gallows he had prepared for Mordechai.
+So they hanged Haman on the gallows he had built for Mordechai.
 The king's anger subsided.
 
 ## VIII
 
 #### The Circle is Complete
 
-On the day Haman was executed, King Ahasuerus gave Queen Esther Haman's house. With Haman out of the way, Mordechai revealed his relationship as Esther's uncle. Or cousin. Or whatever.
+On the day Haman was executed, King Ahasuerus gave Queen Esther 
+Haman's house. With Haman out of the way, Mordechai revealed 
+his relationship as Esther's uncle. Or cousin. Or whatever.
 
-The king took the ring he had given Haman to seal the Jews' death warrant, and gave it to Mordechai, whom Esther put in charge of running Haman's house.
+The king took the ring he had given Haman to seal the Jews'
+death warrant, and gave it to Mordechai.
 
 #### The Evil Lives On
 
@@ -440,15 +494,23 @@ to the king without being summoned.
 
 ### Esther
 
-> If it pleases the king, and if the king likes me, and if he thinks this is a good idea, and if he approves of me, let a decree be written to repeal the Haman's decree, which was to kill the Jews throughout the empire.
+> If it pleases the king, and if the king likes me, 
+> and if he thinks this is a good idea, and if he approves of me,
+> let a decree be written to repeal the Haman's decree, 
+> which was to kill the Jews throughout the empire.
 
 
 #### Mordechai's New Decree
 
 ### King
 
-> No can do, toots. The original decree was signed with the royal signet ring, so it cannot be repealed. What to do, what to do?
-> I know! Mordechai! You write up a new decree to fix this, then sign it with the royal signet ring, so it can't be repealed.
+> No can do, toots. The original decree was sealed with 
+> the royal signet ring, so it cannot be repealed.
+> What to do, what to do?
+> I know! Mordechai! You write up a new decree 
+> to fix this.
+> Then use the royal signet ring to seal it,
+> so it can't be repealed.
 
 Mordechai's new decree stated that
 for one day, on the 13th of Adar,
@@ -463,11 +525,12 @@ the Jews would be ready to take revenge against their enemies on that day.
 #### The Triumphal Celebration
 
 Mordechai left the king's presence wearing royal clothing of blue and
-white, with a large golden crown, and a robe of fine purple linen; then the
-city of Shushan was lighthearted and joyful.
+white, with a large golden crown, and a robe of fine purple linen.
+The city of Shushan was lighthearted and joyful.
 
-The Jews were now able to enjoy the light of Torah, the delight of the
-Jewish Holidays, and the joy of the commandments.
+The Jews were now able to enjoy the light of Torah, 
+the delight of the Jewish Holidays, 
+and the joy of the commandments.
 
 ## IX
 
@@ -478,35 +541,47 @@ The 13th day of the 12th month, which is the month of Adar, the enemies
 of the Jews had hoped
 to overpower the Jews, but the plot was thwarted, and the Jews
 overpowered their enemies.
-Throughout King Ahasuerus's provinces the Jews gathered in their cities
-to defend themselves against those who tried to hurt them. No one could
-withstand them, because everyone was afraid of them.
+
+On the 13th of Adar, the day that Haman decreed
+that the Jews of the empire should be eradicated,
+the Jews gathered in their cities
+to defend themselves. No one could
+withstand them because everyone was afraid of them.
 The Jews struck at all their opponents with the sword, killing and
-destroying them, and they defeated all their enemies.
+destroying them. They defeated all their enemies.
 
 
 ### King
 
-> Esther, in Shushan the Jews killed and destroyed five hundred men, as well as the ten sons of Haman. Who knows what they did in the more distant provinces of the empire? Whatever you want, you will be given; whatever your request, it will be done.
+> Esther, in Shushan the Jews killed and destroyed five hundred men, 
+> as well as the ten sons of Haman. Who knows what they did 
+> in the more distant provinces of the empire? 
+> Whatever you want, you will be given.
+> Whatever your request, it will be done.
 
 ### Esther
 
-> If it pleases the king, may the Jews of Shushan have tomorrow also, with the same rules as today?
+> If it pleases the king, may the Jews of Shushan 
+> have tomorrow also, with the same rules as today?
 
-So the Jews of Shushan gathered again on the fourteenth day of Adar, and
-they killed another three hundred men in Shushan, but they did not pillage
+So the Jews of Shushan gathered again on the 14th of Adar, and
+they killed another three hundred men in Shushan,
+but they did not pillage
 their property.
 The Jews in the rest of the empire also gathered to defend themselves and
 demand peace from their enemies. They killed a total of seventy-five
 thousand, but they did not pillage their property.
 
-They fought their battle on the thirteenth day of the month of Adar and
-made the fourteenth day of Adar a day
+They fought their battle on the 13th of Adar and
+made the 14th a day
 of feasting and celebration.
-That's why the Jews observe the fourteenth day of Adar as
-a day of feasting and rejoicing  and of sending gifts of food to friends and to the poor. These days must be remembered and observed for every generation, in every family, in every part of the world, in every city. The Holiday of Purim will
-never be abolished among the Jews, and their descendants will never cease to
-observe it.
+That's why Jews observe the 14th of Adar as
+a day of feasting and rejoicing  
+and of sending gifts of food to friends and to the poor. 
+These days must be remembered and observed for every generation, 
+in every family, in every part of the world, in every city. 
+The holiday of Purim will never be abolished among the Jews,
+and their descendants will never cease to observe it.
 
 ---
 
