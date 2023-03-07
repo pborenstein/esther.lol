@@ -576,7 +576,7 @@ They fought their battle on the 13th of Adar and
 made the 14th a day
 of feasting and celebration.
 That's why Jews observe the 14th of Adar as
-a day of feasting and rejoicing  
+a day of feasting and rejoicing
 and of sending gifts of food to friends and to the poor. 
 These days must be remembered and observed for every generation, 
 in every family, in every part of the world, in every city. 
